@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: alanhu1024@gmail.com
 description: "一起踏上数据科学的旅程"
 keyword: "阿兰不是图灵, 数据科学, 机器学习, 人工智能, 机器学习, 数据挖掘, 数据分析"
-url: ""              # your host, for absolute URL
-baseurl: "/"                             # for example, '/blog' if your blog hosted on 'host/blog'
+url: "aiganzhi.com"              # your host, for absolute URL
+baseurl: "/alanblog"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
