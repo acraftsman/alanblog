@@ -69,8 +69,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "从数据中获得洞察，让智能来到我们身边"
-sidebar-avatar: img/avatar_alan_light.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "让机器智商拓展我们的"
+sidebar-avatar: /img/avatar_alan_light.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
